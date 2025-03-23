@@ -1,25 +1,28 @@
 body {
-  background-color: #C2E5FF; /* 水色 */
+  background-color: #C6FAF6;
+  /* 水色 */
   font-family: sans-serif;
 }
 
 .header {
-  color: #626060; /* 茶色 */
+  color: #626060;
+  /* 茶色 */
   font-size: 2rem;
   font-weight: bold;
   padding: 20px;
 }
 
 .content-box {
-  background-color: #FEFFE4; /* 黄色 */
+  background-color: #FFFFF2;
+  /* 黄色 */
   border-radius: 16px;
   padding: 30px;
   margin: 30px;
-  color: #626060; /* 茶色 */
+  color: #626060;
+  /* 茶色 */
 }
 
 .article-content {
   margin-top: 10px;
   line-height: 1.6;
 }
-
