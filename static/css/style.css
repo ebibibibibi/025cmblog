@@ -1,11 +1,11 @@
 body {
-  background-color: #DAFFF2;
+  background-color: #BBDEFF;
   /* 水色 */
   font-family: sans-serif;
 }
 
 .header {
-  color: #606060;
+  color: #323B44;
   /* 茶色 */
   font-size: 2rem;
   font-weight: bold;
@@ -13,12 +13,12 @@ body {
 }
 
 .content-box {
-  background-color: #FDFFD3;
+  background-color: #FEFCDD;
   /* 黄色 */
   border-radius: 16px;
   padding: 30px;
   margin: 30px;
-  color: #606060;
+  color: #323B44;
   /* 茶色 */
 }
 
